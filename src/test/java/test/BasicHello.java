@@ -8,7 +8,7 @@ public class BasicHello {
       
       public void test() {
     	  System.out.println("Hello All");
-    	  
+    	  System.out.println("Hi");
       }
  
 }
